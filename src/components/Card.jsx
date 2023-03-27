@@ -1,5 +1,4 @@
 import './card.css'
-import 'boxicons';
 
 function Card({user}) {
 
@@ -20,4 +19,4 @@ function Card({user}) {
     )
 }
 
-export default Card
+export default Card;
